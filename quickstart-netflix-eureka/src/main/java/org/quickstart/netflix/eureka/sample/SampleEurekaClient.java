@@ -3,7 +3,7 @@
  * 文件名：SampleEurekaClient.java
  * 版本信息：
  * 日期：2018年5月19日
- * Copyright asiainfo Corporation 2018
+ * Copyright yangzl Corporation 2018
  * 版权所有 *
  */
 package org.quickstart.netflix.eureka.sample;
@@ -30,7 +30,7 @@ import com.netflix.discovery.DiscoveryManager;
 /**
  * SampleEurekaClient 
  *  
- * @author：yangzl@asiainfo.com
+ * @author：youngzil@163.com
  * @2018年5月19日 下午4:13:06 
  * @since 1.0
  */

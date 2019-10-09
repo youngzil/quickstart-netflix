@@ -14,7 +14,7 @@
  *      limitations under the License.
  */
 
-package org.quickstart.netflix.zuul;
+package com.netflix.zuul.sample;
 
 import com.google.inject.AbstractModule;
 import com.netflix.discovery.AbstractDiscoveryClientOptionalArgs;

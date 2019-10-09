@@ -14,7 +14,7 @@
  *      limitations under the License.
  */
 
-package org.quickstart.netflix.zuul;
+package com.netflix.zuul.sample;
 
 import com.google.inject.Injector;
 import com.netflix.config.ConfigurationManager;

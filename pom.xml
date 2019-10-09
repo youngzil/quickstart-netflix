@@ -22,13 +22,13 @@
   </properties>
 
   <modules>
-    <module>quickstart-netflix-eureka</module>
-    <module>quickstart-netflix-ribbon</module>
-    <module>quickstart-netflix-zuul</module>
-    <module>quickstart-netflix-hystrix</module>
-    <module>quickstart-netflix-turbine</module>
-    <module>quickstart-netflix-archaius</module>
-    <module>quickstart-netflix-governator</module>
+    <module>quickstart-eureka</module>
+    <module>quickstart-ribbon</module>
+    <module>quickstart-zuul</module>
+    <module>quickstart-hystrix</module>
+    <module>quickstart-turbine</module>
+    <module>quickstart-archaius</module>
+    <module>quickstart-governator</module>
   </modules>
 
 </project>

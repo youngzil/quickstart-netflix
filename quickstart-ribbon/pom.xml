@@ -10,9 +10,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>org.quickstart</groupId>
-	<artifactId>quickstart-netflix-ribbon</artifactId>
+	<artifactId>quickstart-ribbon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>quickstart-netflix-ribbon</name>
+  <name>${project.artifactId}-${project.version}</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

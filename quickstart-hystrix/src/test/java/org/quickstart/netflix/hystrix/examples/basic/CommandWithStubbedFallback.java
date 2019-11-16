@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.quickstart.netflix.hystrix.basic;
+package org.quickstart.netflix.hystrix.examples.basic;
 
 import static org.junit.Assert.*;
 
@@ -21,7 +21,7 @@ import org.junit.Test;
 
 import com.netflix.hystrix.HystrixCommand;
 import com.netflix.hystrix.HystrixCommandGroupKey;
-import com.netflix.hystrix.examples.basic.CommandWithStubbedFallback.UserAccount;
+import org.quickstart.netflix.hystrix.examples.basic.CommandWithStubbedFallback.UserAccount;
 
 /**
  * Sample {@link HystrixCommand} that implements a fallback that returns an object

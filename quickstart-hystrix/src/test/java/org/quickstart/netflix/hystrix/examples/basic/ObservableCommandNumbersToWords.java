@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.quickstart.netflix.hystrix.basic;
+package org.quickstart.netflix.hystrix.examples.basic;
 
 import java.util.HashMap;
 import java.util.List;
@@ -24,7 +24,7 @@ import rx.functions.Func1;
 
 import com.netflix.hystrix.HystrixCommandGroupKey;
 import com.netflix.hystrix.HystrixObservableCommand;
-import com.netflix.hystrix.examples.basic.ObservableCommandNumbersToWords.NumberWord;
+import org.quickstart.netflix.hystrix.examples.basic.ObservableCommandNumbersToWords.NumberWord;
 
 /**
  * A simple Hystrix Observable command that translates a number (<code>Integer</code>) into an English text.

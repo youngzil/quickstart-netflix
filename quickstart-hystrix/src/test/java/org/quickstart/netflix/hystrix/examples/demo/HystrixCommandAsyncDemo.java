@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.quickstart.netflix.hystrix.demo;
+package org.quickstart.netflix.hystrix.examples.demo;
 
 import java.math.BigDecimal;
 import java.net.HttpCookie;
@@ -31,7 +31,6 @@ import com.netflix.hystrix.strategy.concurrency.HystrixRequestContext;
 import rx.Observable;
 import rx.Subscriber;
 import rx.functions.Action0;
-import rx.functions.Action1;
 import rx.functions.Func1;
 import rx.functions.Func2;
 import rx.plugins.RxJavaPlugins;

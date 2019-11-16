@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.quickstart.netflix.hystrix.basic;
+package org.quickstart.netflix.hystrix.examples.basic;
 
 import static org.junit.Assert.*;
 

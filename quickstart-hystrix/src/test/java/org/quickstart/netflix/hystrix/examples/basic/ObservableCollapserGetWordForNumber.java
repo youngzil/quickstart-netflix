@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.quickstart.netflix.hystrix.basic;
+package org.quickstart.netflix.hystrix.examples.basic;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
@@ -43,7 +43,7 @@ import com.netflix.hystrix.HystrixCollapser.CollapsedRequest;
 import com.netflix.hystrix.HystrixObservableCollapser;
 import com.netflix.hystrix.HystrixObservableCommand;
 import com.netflix.hystrix.HystrixRequestLog;
-import com.netflix.hystrix.examples.basic.ObservableCommandNumbersToWords.NumberWord;
+import org.quickstart.netflix.hystrix.examples.basic.ObservableCommandNumbersToWords.NumberWord;
 import com.netflix.hystrix.strategy.concurrency.HystrixContextScheduler;
 import com.netflix.hystrix.strategy.concurrency.HystrixRequestContext;
 
